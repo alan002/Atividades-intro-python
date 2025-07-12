@@ -1,4 +1,4 @@
-# Atividades-intro-python
+# python
 # Aprendendo Python: Lógica, Sintaxe e Prática Inicial
 
 Bem-vindo ao meu espaço de estudo dedicado à **introdução ao Python**!
